@@ -3,3 +3,9 @@
            ready to merge in
 
            merging starts here!
+
+
+Starting of branch 2
+
+This text came from branch 2
+end of branch 2
