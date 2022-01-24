@@ -3,3 +3,6 @@
            ready to merge in
 
            merging starts here!
+
+       Text adding from branch 1
+       ending of branch 1
